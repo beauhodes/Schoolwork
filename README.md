@@ -13,3 +13,6 @@ This lab implemented a graph and disjoint sets (also contains files for creating
 
 ### vigenereCipher (Python)
 This Python file implements a Vigenere Cipher - a simple polyalphabetic substitution algorithm. There is an encrypt feature that takes plaintext and a key and transforms it into ciphertext, and there is a decrypt feature that takes ciphertext, a key length, and a first word length (you're somewhat cheating here by assuming you know a key length and first word length) and decrypts the ciphertext.
+
+### kMeanRestaurant
+This was the capstone project for my IBM Data Science certificate. It uses Central LA neighborhood data, the Foursquare Places API, Python, and k means clustering to determine the best neighborhood to place a new pizza restaurant based on nearby venues, foot traffic, and neighborhood income.
